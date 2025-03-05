@@ -47,27 +47,26 @@
 
 # 🛠️ SKILLS
 
-| 분야         | 기술 스택          | 구현 기능                                                      |
-| ------------ | ------------------ | -------------------------------------------------------------- |
-| **Frontend** | • React            | • 컴포넌트 기반 UI 개발<br>• SPA(Single Page Application) 구현 |
-|              | • Redux            | • 전역 상태 관리<br>• 사용자 정보, 게임 상태 관리              |
-|              | • Tailwind         | • UI 스타일링<br>• 반응형 디자인 구현                          |
-|              | • Styled-component | • 컴포넌트별 스타일 관리<br>• 동적 스타일링                    |
-|              | • Three.js         | • 3D 게임 그래픽 구현<br>• 3D 모델링 렌더링                    |
-|              | • Canvas API       | • 2D 그림 그리기기 구현<br>• 실시간 그림 화면 공유             |
-|              | • Socket.io        | • 실시간 게임 통신<br>• 채팅 기능 구현                         |
-|              | • WebRTC           | • 실시간 음성/영상 통신<br>• P2P 연결 구현                     |
-| **Backend**  | • SpringBoot       | • RESTful API 서버 구축<br>• 비즈니스 로직 처리                |
-|              | • MySQL            | • 사용자 데이터 관리<br>• 게임 데이터 저장                     |
-|              | • Redis            | • 실시간 데이터 캐싱<br>• 세션 관리                            |
-|              | • OpenVidu         | • 화상 채팅 서버 구축<br>• 미디어 서버 관리                    |
-|              | • JPA              | • 객체-관계 매핑<br>• 데이터베이스 연동                        |
-|              | • Spring Security  | • 사용자 인증/인가<br>• 보안 기능 구현                         |
-| **Infra**    | • Docker           | • 컨테이너화 배포<br>• 개발/운영 환경 일치화                   |
-|              | • Jenkins          | • CI/CD 파이프라인 구축<br>• 자동화된 빌드/배포                |
-|              | • Nginx            | • 웹 서버 구축<br>• 로드 밸런싱                                |
-| **AI**       | • Whisper          | • 음성 인식 기능<br>• 음성-텍스트 변환                         |
-|              | • Electron         | • 데스크톱 애플리케이션 배포<br>• 크로스 플랫폼 지원           |
+| 분야         | 기술 스택                                                                                                                       | 구현 기능                                                      |
+| ------------ | ------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- |
+| **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white)                             | • 컴포넌트 기반 UI 개발<br>• SPA(Single Page Application) 구현 |
+|              | ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)                             | • 전역 상태 관리<br>• 사용자 정보, 게임 상태 관리              |
+|              | ![TailwindCSS](https://img.shields.io/badge/-Tailwind.CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)          | • UI 스타일링<br>• 반응형 디자인 구현                          |
+|              | ![Three.JS](https://img.shields.io/badge/-Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)                  | • 3D 게임 그래픽 구현<br>• 3D 모델링 렌더링                    |
+|              | ![Canvas](https://img.shields.io/badge/-Canvas-E72429?style=for-the-badge&logo=canvas&logoColor=white)                          | • 2D 그림 그리기기 구현<br>• 실시간 그림 화면 공유             |
+|              | ![Socket.io](https://img.shields.io/badge/-Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)               | • 실시간 게임 통신<br>• 채팅 기능 구현                         |
+|              | ![WebRTC](https://img.shields.io/badge/-WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white)                          | • 실시간 음성/영상 통신<br>• P2P 연결 구현                     |
+| **Backend**  | ![SpringBoot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)             | • RESTful API 서버 구축<br>• 비즈니스 로직 처리                |
+|              | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)                             | • 사용자 데이터 관리<br>• 게임 데이터 저장                     |
+|              | ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)                             | • 실시간 데이터 캐싱<br>• 세션 관리                            |
+|              | ![OpenVidu](https://img.shields.io/badge/-Open_Vidu-1F3A5E?style=for-the-badge&logo=openvidu&logoColor=white)                   | • 화상 채팅 서버 구축<br>• 미디어 서버 관리                    |
+|              | ![JPA](https://img.shields.io/badge/-JPA-1F3A5E?style=for-the-badge&logoColor=white)                                            | • 객체-관계 매핑<br>• 데이터베이스 연동                        |
+|              | ![SpringSecurity](https://img.shields.io/badge/-Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white) | • 사용자 인증/인가<br>• 보안 기능 구현                         |
+| **Infra**    | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)                          | • 컨테이너화 배포<br>• 개발/운영 환경 일치화                   |
+|              | ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)                       | • CI/CD 파이프라인 구축<br>• 자동화된 빌드/배포                |
+|              | ![Nginx](https://img.shields.io/badge/-NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)                             | • 웹 서버 구축<br>• 로드 밸런싱                                |
+| **AI**       | ![Whisper](https://img.shields.io/badge/-Whisper-4B7BEC?style=for-the-badge&logo=openai&logoColor=white)                        | • 음성 인식 기능<br>• 음성-텍스트 변환                         |
+|              | ![Electron](https://img.shields.io/badge/-Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)                    | • 데스크톱 애플리케이션 배포<br>• 크로스 플랫폼 지원           |
 
 ## 📜 설계 문서
 
